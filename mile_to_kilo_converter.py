@@ -3,7 +3,7 @@ from tkinter import *
 window = Tk()
 window.title("Miles To Kilometer Converter")
 
-mile_input = Entry()
+mile_input = Entry(width=7)
 mile_input.grid(column=1, row=0)
 
 miles_label = Label(text="Miles")
