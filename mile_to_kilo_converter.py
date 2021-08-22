@@ -16,6 +16,7 @@ kilometer_result_label = Label(text="0")
 kilometer_result_label.grid(column=1, row=1)
 
 kilometer_label = Label(text="Km")
+kilometer_label.grid(column=2, row=1)
 
 calculate_button = Button(text="Calculate")
 
