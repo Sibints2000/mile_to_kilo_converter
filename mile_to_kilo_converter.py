@@ -10,6 +10,7 @@ miles_label = Label(text="Miles")
 miles_label.grid(column=2, row=0)
 
 is_equal_label = Label(text="is equal to")
+is_equal_label.grid(column=0, row=1)
 
 kilometer_result_label = Label(text="0")
 
