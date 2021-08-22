@@ -11,5 +11,7 @@ is_equal_label = Label(text="is equal to")
 
 kilometer_result_label = Label(text="0")
 
+kilometer_label = Label(text="Km")
+
 
 window.mainloop()
